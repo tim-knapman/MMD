@@ -1,0 +1,5 @@
+.service { margin: 20px 0px; }
+.service i { display: block; margin: 0px auto; text-align: center; color: #000; }
+.service h5 { text-align: center; color: #000; }
+.service p { width: 90%; margin: 5px auto; padding-bottom: 10px; }
+.service img { padding: 20px 0px 0px; box-shadow: 0 4px 5px -3px #231f20 !important }
